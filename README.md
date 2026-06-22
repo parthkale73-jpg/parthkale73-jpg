@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Parth Kale 👋
 
-<!--
-**parthkale73-jpg/parthkale73-jpg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 AIML Diploma Student
 
-Here are some ideas to get you started:
+## About Me
+- Currently studying Artificial Intelligence and Machine Learning
+- Learning Python and GitHub
+- Interested in AI, Software Development, and Technology
+- Cricket Enthusiast 🏏
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Goals
+- Score 95% in my AIML Diploma Semester
+- Build Strong Python Skills
+- Create AI & Machine Learning Projects
+- Build a Professional GitHub Portfolio
+
+## Skills
+- Python (Learning)
+- Git & GitHub
+- Problem Solving
+- Basic AI & Machine Learning
+
+## Projects
+🚀 Projects coming soon...
+
+## Contact
+GitHub: @parthkale73-jpg
