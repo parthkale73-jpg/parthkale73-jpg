@@ -18,7 +18,8 @@
 - Python (Learning)
 - Git & GitHub
 - Problem Solving
-- Basic AI & Machine Learning
+- Artificial Intelligence
+- Machine Learning
 
 ## Projects
 🚀 Projects coming soon...
